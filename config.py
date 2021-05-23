@@ -3,9 +3,7 @@ token = 'REPLACE_TOKEN'
 CommandPrefix = 'REPLACE_PREFIX'    
 activitytype = 'Playing'                        #Accepted Values are Watching, Listening, Playing, or Streaming.
 botstatusmessage = 'REPLACE_STATUS_HERE'        
-developerid = 0000000000000000000               #Insert the userID here were the bot will send all error dms too. THE USER MUST BE IN THE SAME DISCORD SERVER THAT THE BOT IS IN!
-guildID = 0000000000000000000                   #Insert the guildID of the server that the bot will be running in here.
-StaffRoleID = 0000000000000000000               #Change this value to the role in the server that will give bot perms to the anti-raid commands
+developerid = 0000000000000000000               #Insert the userID here were the bot will send all error dms too. THE USER MUST BE IN THE SAME DISCORD SERVER THAT THE BOT IS IN!               #Change this value to the role in the server that will give bot perms to the anti-raid commands
 SystemLogsChannelID = 0000000000000000000       #Change this value to where the bot will send all logs of commands too
 
 #Embeds#
